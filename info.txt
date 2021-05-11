@@ -1,0 +1,21 @@
+Projeto realizado na semana Spring React da devsuperior.com.br
+Professor: Nélio alves.
+Data: de 03/05/2021 á 09/05/2021.
+
+Tecnologias utilizadas
+ * Spring boot
+ * Java
+ * Yarn
+ * Postman
+ * Postgreesql
+ * H2 BD
+ * Visual Studio
+ * Git hub
+ * Git
+ * Heroku
+ * Netlify
+ * SQL
+ * PGAdmin
+
+Link do projeto online: https://app.netlify.com/sites/oliveira-sds3/deploys
+Repositório github: https://github.com/OliveiraSouzaBruno/projeto-sds3
